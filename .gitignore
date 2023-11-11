@@ -1,0 +1,6 @@
+.DS_Store
+target
+__pycache__
+.vscode
+*.encrypted
+*_decrypted*

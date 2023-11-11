@@ -1,0 +1,17 @@
+{
+  "name": "robin-wizard",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "tiero",
+  "license": "MIT",
+  "dependencies": {
+    "@vulpemventures/secp256k1-zkp": "^3.1.0",
+    "liquidjs-lib": "^6.0.2-liquid.30",
+    "node-fetch": "^2.7.0"
+  },
+  "devDependencies": {
+    "@types/node-fetch": "^2.6.4",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  }
+}
