@@ -2,7 +2,7 @@
 
 Burn contract in Liquid Script. It requires mainly `OP_CAT` and `OP_CHECKSIGFROMSTACK`.
 
-Developed and tested in [Script Wizard](https://ide.scriptwiz.app/). Also, the output of `decrypt.py` is made compatible with it.
+Developed and tested in [Script Wizard](https://ide.scriptwiz.app/) (in the top right corner, select `Liquid (v1_p2tr)`). Also, the output of `decrypt.py` is made compatible with this implementation.
 
 ```
 // Make copy of the index and the two leaves to verify encryption later
